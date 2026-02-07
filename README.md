@@ -3,10 +3,20 @@ Sample non-profit governance framework with documented decision logic and policy
 
 # 4 Key questions 
 
-1 What problem does this project address?
+1) What problem does this project address?
 
-2 What constraints or principles guide it?
+2) What constraints or principles guide it?
 
-3 What artifacts are included? How many?
+3) What artifacts are included? How many?
 
-4 How to review the work efficiently.
+4) How to review the work efficiently.
+
+# Title
+
+# Purpose
+
+# Design Principles
+
+# What's included
+
+# How to read / review
