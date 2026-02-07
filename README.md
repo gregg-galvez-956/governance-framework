@@ -11,8 +11,6 @@ Sample non-profit governance framework with documented decision logic and policy
 
 4) How to review the work efficiently.
 
-# Title
-
 # Purpose
 
 # Design Principles
