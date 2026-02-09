@@ -1,18 +1,16 @@
 # Governance-framework
 Sample non-profit governance framework with documented decision logic and policy artifacts.
 
-# 4 Key questions 
-
-1) What problem does this project address?
-
-2) What constraints or principles guide it?
-
-3) What artifacts are included? How many?
-
-4) How to review the work efficiently.
-
-
 # Purpose
+
+## Framework Scope & Constraints
+The purpose, scope, and non-negotiable constraints of this governance framework are defined in the following document:
+
+- [`framework-purpose-and-scope.md`](docs/framework-purpose-and-scope.md)
+
+All governance artifacts in this repository are designed and evaluated against the boundaries established in that document.
+
+
 
 # Design Principles
 
