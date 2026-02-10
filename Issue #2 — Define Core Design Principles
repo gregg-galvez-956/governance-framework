@@ -1,0 +1,30 @@
+# Issue #2 — Define Core Design Principles
+## Goal
+
+Produce a concise set of design principles that constrain how governance artifacts in this repository are created, evaluated, revised, and interpreted.
+
+## Context
+
+With the framework purpose and scope established, design principles are required to define how governance decisions are judged and constrained. These principles provide a consistent evaluative lens across artifacts, preventing ad-hoc reasoning and outcome-driven interpretation.
+
+## In Scope
+
+Definition of core principles that apply across all governance artifacts
+Constraints that guide how authority, access, and discipline are structured
+Principles that support consistency, traceability, and reviewability
+
+## Out of Scope
+
+Scenario-specific rules or examples
+Policy implementation or procedural detail
+Legal interpretation or statutory guidance
+Constraints
+Principles must be general enough to apply across multiple contexts
+Principles must be actionable and reviewable, not aspirational
+Principles must prioritize documented authority over informal practice
+
+## Definition of Done
+
+A design principles document exists at /principles/design-principles.md
+Principles are referenced in the repository README
+Principles are sufficient to evaluate future artifacts without additional context
