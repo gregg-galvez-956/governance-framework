@@ -8,6 +8,10 @@ The purpose, scope, and non-negotiable constraints of this governance framework 
 
 - [`framework-purpose-and-scope.md`](docs/framework-purpose-and-scope.md)
 
+## Design Principles
+Core governance design principles are defined in  
+[`/principles/design-principles.md`](principles/design-principles.md).
+
 All governance artifacts in this repository are designed and evaluated against the boundaries established in that document.
 
 
