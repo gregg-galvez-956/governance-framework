@@ -1,30 +1,22 @@
+
+
+# Scenario: Role vs. Document Authority
+
 ## Context
-An organization operates a shared space dedicated to its core mission. The space is governed by written bylaws and supporting governance documents that define authority, access, and conduct expectations.
-A conflict arises involving a participant whose behavior is alleged to undermine safety or mission integrity, but whose access to the space is otherwise protected by the organization’s stated purpose.
+An organization assigns formal titles and operational roles to support its day-to-day functioning. Separately, written governing documents define where governance authority resides. A situation arises in which an individual acting under a recognized role asserts decision-making authority that is not clearly supported by the governing documents.
 
 ## Actors
-- Governing board or equivalent authority body
-
-- Designated officers or committee members
-
-- A participant or member whose conduct is in question
-
-- Other participants affected by the situation  
+- An individual holding an operational or leadership role  
+- The governing body or authority defined by written documents  
+- Participants affected by the asserted decision  
 
 ## Constraints
-- Authority must be exercised in accordance with written governing documents
-
-- Discipline is framed as safety and mission preservation, not punishment
-
-- Access to the organization’s core purpose should not be arbitrarily restricted
-
-- Decisions must be documented and reviewable  
+- Governance authority originates from written governing documents, not titles or informal practice  
+- Roles exist to support execution and coordination, not to independently create authority  
+- Decisions must be traceable to explicit, documented sources  
 
 ## Decision Pressure
-The governing body must determine whether and how to intervene in the situation. Competing pressures include maintaining safety, preserving access to the organization’s mission, adhering to documented authority limits, and responding to concerns raised by other participants.
-Ambiguity exists regarding which governing documents apply, who holds decision authority in the moment, and what actions are permissible without constituting arbitrary restriction.
+The organization must assess whether the action taken under role authority is valid, exceeds documented limits, or establishes an unintended precedent. Tension exists between operational continuity, customary practice, and adherence to the constraints imposed by governing documents.
 
 ## Out of Scope
-This scenario does not prescribe a resolution, determine fault, or define disciplinary outcomes.
-
-It does not address legal liability, employment status, or enforcement mechanisms beyond governance authority.
+This scenario does not assess intent or performance, prescribe corrective actions, or address employment, compensation, or legal liability.
