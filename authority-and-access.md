@@ -1,5 +1,3 @@
-
-
 # Scenario: Role vs. Document Authority
 
 ## Context
@@ -17,6 +15,9 @@ An organization assigns formal titles and operational roles to support its day-t
 
 ## Decision Pressure
 The organization must assess whether the action taken under role authority is valid, exceeds documented limits, or establishes an unintended precedent. Tension exists between operational continuity, customary practice, and adherence to the constraints imposed by governing documents.
+
+## Out of Scope
+This scenario does not assess intent or performance, prescribe corrective actions, or address employment, compensation, or legal liability. the action taken under role authority is valid, exceeds documented limits, or establishes an unintended precedent. Tension exists between operational continuity, customary practice, and adherence to the constraints imposed by governing documents.
 
 ## Out of Scope
 This scenario does not assess intent or performance, prescribe corrective actions, or address employment, compensation, or legal liability.
