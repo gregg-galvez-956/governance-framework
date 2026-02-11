@@ -1,0 +1,27 @@
+# Scenario: Emergency Authority and Post-Action Review
+
+## Context
+This scenario does not determine whether the emergency threshold was met, prescribe corrective outcomes, or define disciplinary consequences. It excludes criminal liability, statutory compliance, external enforcement actions, and assessments beyond governance authority and review.
+
+## Actors
+- The individual vested with emergency authority under the governing documents exercising defined emergency authority  
+- The governing board responsible for post-action review  
+- A participant or participants directly affected by the emergency action  
+- Other individuals present or impacted by the situation  
+
+## Constraints
+- Emergency authority is limited in scope and duration as defined by written governing documents  
+- Actions taken under emergency authority must be documented  
+- Emergency measures do not permanently alter governance structure or authority  
+- A timely board review is required following emergency action  
+
+## Decision Pressure
+The individual vested with emergency authority under the governing documents must determine whether the situation meets the threshold for emergency authority and what temporary measures are permissible within documented limits. Delay may increase harm, while overreach risks exceeding defined authority. Following the intervention, the governing board must assess whether the action was justified, proportional, and consistent with governing constraints,without outside biases and whether remediation or clarification is required.
+
+## Out of Scope
+
+- Determination of whether the emergency threshold was met  
+- Prescription of corrective or disciplinary outcomes  
+- Criminal liability or statutory compliance  
+- External enforcement actions  
+- Assessments beyond governance authority, documented review, and structural legitimacy
