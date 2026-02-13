@@ -190,6 +190,120 @@ Where ambiguity exists, restraint is presumed.
 
 All governance actions must comply with this doctrine before proceeding to formal decision.
 
+
+## 2.3 Pre-Vote Legitimacy Requirements
+
+### Purpose  
+This section establishes procedural safeguards that must be satisfied before any governance vote becomes valid. These requirements ensure transparency, consistency, and accountability while preventing informal or procedurally defective decision-making.
+
+Failure to meet these requirements renders the resulting decision procedurally invalid and subject to challenge.
+
+---
+
+### 2.3.1 Authority Citation Requirement  
+
+Before any governance vote, the presiding officer or designated facilitator must identify and record:
+
+- The specific bylaw, policy, or governance framework provision authorizing the proposed action  
+- Whether the authority is explicit or interpretive  
+- The category of authority being exercised (Operational, Governance, Emergency, or Interpretive)
+
+No vote may proceed without documented authority.
+
+---
+
+### 2.3.2 Mission Impact Classification  
+
+Prior to deliberation, the proposed action must be classified as one of the following:
+
+- Mission-preserving  
+- Mission-neutral  
+- Mission-adjacent  
+- Mission-modifying  
+
+If an action is classified as mission-modifying, the highest applicable thresholds for quorum, notice, and voting must automatically apply.
+
+Mission classification must be recorded in the meeting record.
+
+---
+
+### 2.3.3 Threshold and Quorum Confirmation  
+
+Before any vote, the Board must:
+
+- Confirm quorum in accordance with the bylaws  
+- Declare the required vote threshold  
+- Record the quorum and threshold in meeting minutes  
+
+No decision may be finalized without verified quorum.
+
+---
+
+### 2.3.4 Conflict of Interest Disclosure  
+
+Prior to deliberation, Board members must disclose any actual or potential conflicts of interest related to the matter under consideration.
+
+Conflicted members must:
+
+- Recuse themselves from voting  
+- Have their recusal recorded in meeting minutes  
+
+Failure to disclose material conflicts may invalidate the decision and trigger review.
+
+---
+
+### 2.3.5 Scope and Agenda Integrity  
+
+No governance vote may occur unless the matter was:
+
+- Properly noticed  
+- Included in the meeting agenda  
+- Within the scope of the meeting type (regular or emergency)
+
+Emergency meetings may not introduce unrelated governance actions.
+
+---
+
+### 2.3.6 Documentation and Recordkeeping  
+
+For each governance vote, the following must be documented:
+
+- Motion language  
+- Authority citation  
+- Mission classification  
+- Quorum verification  
+- Vote tally  
+- Conflict disclosures  
+- Final determination  
+
+Records must be preserved in accordance with governance recordkeeping policies.
+
+---
+
+### 2.3.7 Appeal and Review Notice  
+
+Upon completion of a vote, the Board must identify:
+
+- Whether the decision is subject to appeal  
+- The procedure for appeal  
+- The timeline for appeal  
+
+Failure to communicate review rights may extend the appeal window.
+
+---
+
+### Structural Principle  
+
+A decision is legitimate only if:
+
+- Authority is explicit  
+- Process is transparent  
+- Mission impact is evaluated  
+- Conflicts are disclosed  
+- Records are preserved  
+
+Procedural integrity is a safeguard against both abuse and error.
+
 - - - 
 
 ## 2.4 Decision Documentation and Publication Standards
