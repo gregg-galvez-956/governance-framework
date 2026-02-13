@@ -1,4 +1,4 @@
-# Module 2 – Governance Decision Validation Protocol
+modules/module-2-decision-validation.md
 
 ## 2.1 Authority Classification
 
