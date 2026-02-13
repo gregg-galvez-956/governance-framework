@@ -119,3 +119,73 @@ All authority within the Club is:
 - Subordinate to mission protection  
 
 No authority expands through habit, precedent, or personality.
+
+- - -
+
+## 2.2 Doctrine of Express Authority and Interpretive Restraint
+
+### Purpose  
+This doctrine establishes that all governance authority must originate from explicit, documented sources. It prevents the creation of informal, implied, or personality-based authority and preserves the principle that authority flows from governing documents rather than individuals.
+
+---
+
+### 2.2.1 Principle of Explicit Grant  
+
+All governance authority exercised within the Club must be grounded in an explicit provision of the bylaws, policies, or formally adopted governance framework. Powers not expressly granted are reserved and may not be assumed.
+
+Silence in governing documents does not constitute permission.
+
+---
+
+### 2.2.2 Prohibition on Implied Authority  
+
+No individual, officer, or Board may claim authority based on:
+- Tradition or past informal practice  
+- Personal status, reputation, or tenure  
+- Organizational convenience  
+- Urgency not meeting emergency authority standards  
+- Interpretation that contradicts explicit language  
+
+Custom, precedent, or repeated behavior does not create new authority.
+
+---
+
+### 2.2.3 Limited Interpretive Discretion  
+
+When governing documents are ambiguous and no explicit guidance exists, the Board may exercise interpretive discretion only if:
+
+- The ambiguity is documented  
+- The specific provision in question is cited  
+- The interpretation is formally recorded  
+- The interpretation does not contradict explicit language  
+- The interpretation is treated as provisional and subject to future clarification  
+
+Interpretation may clarify authority but may not expand it.
+
+---
+
+### 2.2.4 Mission Supremacy Constraint  
+
+No interpretation, procedural rule, or operational decision may be used to directly or indirectly modify or weaken the Club’s mission, sobriety requirements, inclusivity commitments, or nonprofit purpose.
+
+Any decision with mission-modifying effect must be treated as a structural governance action and subject to the highest applicable thresholds.
+
+---
+
+### 2.2.5 Enforcement and Review  
+
+Any member, officer, or governance body may challenge actions believed to violate the Doctrine of Express Authority. Such challenges shall be reviewed through the procedures established in Module 3 – Governance Failure and Enforcement.
+
+---
+
+### Structural Principle  
+
+Authority must be:
+- Explicit  
+- Documented  
+- Reviewable  
+- Mission-aligned  
+
+Where ambiguity exists, restraint is presumed.
+
+All governance actions must comply with this doctrine before proceeding to formal decision.
