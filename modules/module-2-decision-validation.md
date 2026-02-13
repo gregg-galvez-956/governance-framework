@@ -189,3 +189,89 @@ Authority must be:
 Where ambiguity exists, restraint is presumed.
 
 All governance actions must comply with this doctrine before proceeding to formal decision.
+
+- - - 
+
+## 2.4 Decision Documentation and Publication Standards
+
+### Purpose  
+This section ensures that all governance decisions are documented, accessible, and reviewable. It prevents hidden decision-making, selective memory, and informal reinterpretation of prior actions. Transparency and record integrity are essential for institutional continuity and legitimacy.
+
+---
+
+### 2.4.1 Official Record Requirement  
+
+All governance actions must be recorded in an official and permanent governance record. No decision is considered final until it is documented in accordance with this section.
+
+The official record must be maintained in a secure and accessible format determined by governance policy.
+
+---
+
+### 2.4.2 Minimum Documentation Standards  
+
+For each governance decision, the record must include:
+
+- Date and time of the meeting  
+- Meeting type (regular or emergency)  
+- Notice compliance  
+- Authority citation  
+- Mission classification  
+- Motion language  
+- Quorum confirmation  
+- Conflict disclosures  
+- Vote tally  
+- Final determination  
+- Identified appeal or review pathway  
+
+Incomplete records may invalidate the decision.
+
+---
+
+### 2.4.3 Publication and Accessibility  
+
+Governance decisions must be made reasonably accessible to members in good standing. Accessibility methods may include:
+
+- Member-accessible digital archive  
+- Physical record availability at the Club  
+- Summary communication through official channels  
+
+Operational details may remain confidential when necessary to protect privacy, safety, or legal compliance.
+
+---
+
+### 2.4.4 Confidentiality and Safety Constraints  
+
+Certain information may be restricted when disclosure would:
+
+- Violate privacy  
+- Compromise safety  
+- Interfere with recovery or peer support  
+- Create legal or reputational harm  
+
+In such cases, the existence of the decision must still be recorded, even if specific details are limited.
+
+---
+
+### 2.4.5 Record Preservation  
+
+Governance records must be preserved in accordance with retention standards defined in governance policy. Records may not be altered or removed without formal authorization.
+
+Historical records must remain available for pattern analysis, institutional learning, and accountability.
+
+---
+
+### 2.4.6 Correction and Clarification  
+
+If documentation errors are discovered:
+
+- Corrections must be recorded transparently  
+- Original records must remain intact  
+- Clarifications may not change the substance of prior decisions without formal reconsideration  
+
+---
+
+### Structural Principle  
+
+Transparency protects legitimacy.  
+Documentation preserves institutional memory.  
+No governance authority exists outside the record.
