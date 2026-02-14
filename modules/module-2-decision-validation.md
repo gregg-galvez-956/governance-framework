@@ -389,3 +389,271 @@ If documentation errors are discovered:
 Transparency protects legitimacy.  
 Documentation preserves institutional memory.  
 No governance authority exists outside the record.
+
+- - -
+
+## 2.5 Mission Impact and Structural Threshold Triggers
+
+### Purpose  
+This section establishes objective triggers for heightened governance safeguards when proposed actions materially affect the Club’s mission, identity, structure, or long-term integrity. It prevents incremental mission drift and ensures that foundational commitments cannot be altered through procedural or interpretive shortcuts.
+
+---
+
+### 2.5.1 Mission Protection Framework  
+
+The Club’s mission, sobriety commitment, inclusivity principles, and nonprofit purpose are foundational and receive the highest level of governance protection.
+
+Any action that directly or indirectly alters these foundations must be treated as a structural governance decision and subject to elevated safeguards.
+
+---
+
+### 2.5.2 Automatic Structural Classification  
+
+The following categories of action are automatically classified as structural:
+
+- Modification of mission or purpose  
+- Changes to sobriety expectations or requirements  
+- Alteration of inclusivity or nondiscrimination commitments  
+- Changes affecting populations served or community focus  
+- Structural changes to governance authority or decision-making processes  
+- Changes to enforcement mechanisms, appeal rights, or member standing  
+- Amendment of quorum, voting thresholds, or procedural safeguards  
+- Creation, restructuring, or elimination of governance bodies  
+- Dissolution, merger, or major organizational restructuring  
+
+Classification is based on material impact, not framing or terminology. No procedural or interpretive mechanism may be used to avoid structural classification.
+
+---
+
+### 2.5.3 Elevated Safeguards  
+
+Structural decisions must meet:
+
+- Highest applicable quorum requirements as defined in the bylaws  
+- Extended notice and deliberation periods  
+- Supermajority voting thresholds  
+- Documentation of rationale and anticipated impact  
+
+Emergency Authority may not be used to enact, bypass, or indirectly implement structural decisions.
+
+---
+
+### 2.5.4 Pattern and Drift Detection  
+
+If repeated operational or emergency actions cumulatively produce structural effects, the Board must initiate formal structural review.
+
+Indicators include:
+
+- Repeated temporary measures addressing the same issue  
+- Informal policy enforcement without formal adoption  
+- Gradual reinterpretation of mission language  
+- Habit-based governance replacing formal procedure  
+
+Upon detection, the Board must:
+
+- Pause related actions  
+- Conduct formal review  
+- Document findings, risks, and proposed corrective pathways  
+
+---
+
+### 2.5.5 Safeguard Against Incremental Change  
+
+No sequence of minor, technical, or operational adjustments may be used to accomplish a major change that would otherwise require elevated safeguards.
+
+Material long-term impact governs classification, not the size of individual decisions.
+
+---
+
+### 2.5.6 Institutional Legitimacy Consideration  
+
+For structural decisions, the Board must consider and document:
+
+- Long-term mission alignment  
+- Community trust and credibility  
+- Organizational stability and continuity  
+- Impact on recovery safety and inclusion  
+
+---
+
+### Structural Principle  
+
+Mission protection requires active vigilance. Structural safeguards activate automatically when core identity is at risk.
+
+- - -
+
+## 2.6 Emergency Authority Containment and Review Integration
+
+### Purpose  
+This section integrates Emergency Authority with ongoing governance legitimacy requirements. It ensures that temporary protective actions remain limited, reviewable, and subordinate to formal governance processes. It prevents normalization of emergency authority and protects against drift toward informal or authoritarian decision-making.
+
+---
+
+### 2.6.1 Temporary Nature of Emergency Authority  
+
+Emergency Authority exists solely to stabilize immediate risk. It is temporary by design and does not create standing governance authority.
+
+No emergency action may establish precedent, policy, or ongoing governance practice without formal review and ratification.
+
+---
+
+### 2.6.2 Mandatory Review Trigger  
+
+All emergency actions automatically trigger a required Board review in accordance with **Module 1 – Interim Review Failure Contingency**.
+
+This review must:
+
+- Occur within the defined review period  
+- Evaluate necessity, proportionality, and mission alignment  
+- Determine whether the action should be affirmed, modified, or allowed to expire  
+
+Failure to conduct timely review results in automatic expiration of the emergency action.
+
+---
+
+### 2.6.3 Prohibition on Escalation Through Inaction  
+
+Emergency Authority may not expand, extend, or escalate through:
+
+- Delay in scheduling review  
+- Repeated temporary extensions  
+- Informal continuation of restrictions  
+- Passive or intentional inaction  
+
+Inaction does not confer authority.
+
+---
+
+### 2.6.4 Conversion to Formal Governance  
+
+If an emergency action reveals a recurring or structural issue, the Board must:
+
+- Initiate formal governance deliberation  
+- Classify the issue under Section 2.5  
+- Apply appropriate structural safeguards  
+
+Emergency measures must transition to formal governance or terminate.
+
+---
+
+### 2.6.5 Pattern Monitoring  
+
+Repeated reliance on emergency authority for similar situations requires:
+
+- Documentation of pattern  
+- Risk assessment  
+- Evaluation of systemic causes  
+- Formal policy or structural response  
+
+This prevents normalization of crisis-driven governance.
+
+---
+
+### 2.6.6 Documentation and Transparency  
+
+All emergency actions and subsequent reviews must be documented in accordance with Section 2.4.
+
+Records must include:
+
+- Nature of the emergency  
+- Authority invoked  
+- Actions taken  
+- Duration  
+- Review outcome  
+
+---
+
+### Structural Principle  
+
+Emergency Authority protects safety in moments of instability.  
+Formal governance protects legitimacy in the long term.  
+Temporary power must never become permanent.
+
+- - -
+
+## 2.6 Emergency Authority Containment and Review Integration
+
+### Purpose  
+This section integrates Emergency Authority with ongoing governance legitimacy requirements. It ensures that temporary protective actions remain limited, reviewable, and subordinate to formal governance processes. It prevents normalization of emergency authority and protects against drift toward informal or authoritarian decision-making.
+
+---
+
+### 2.6.1 Temporary Nature of Emergency Authority  
+
+Emergency Authority exists solely to stabilize immediate risk. It is temporary by design and does not create standing governance authority.
+
+No emergency action may establish precedent, policy, or ongoing governance practice without formal review and ratification.
+
+---
+
+### 2.6.2 Mandatory Review Trigger  
+
+All emergency actions automatically trigger a required Board review in accordance with **Module 1 – Interim Review Failure Contingency**.
+
+This review must:
+
+- Occur within the defined review period  
+- Evaluate necessity, proportionality, and mission alignment  
+- Determine whether the action should be affirmed, modified, or allowed to expire  
+
+Failure to conduct timely review results in automatic expiration of the emergency action.
+
+---
+
+### 2.6.3 Prohibition on Escalation Through Inaction  
+
+Emergency Authority may not expand, extend, or escalate through:
+
+- Delay in scheduling review  
+- Repeated temporary extensions  
+- Informal continuation of restrictions  
+- Passive or intentional inaction  
+
+Inaction does not confer authority.
+
+---
+
+### 2.6.4 Conversion to Formal Governance  
+
+If an emergency action reveals a recurring or structural issue, the Board must:
+
+- Initiate formal governance deliberation  
+- Classify the issue under Section 2.5  
+- Apply appropriate structural safeguards  
+
+Emergency measures must transition to formal governance or terminate.
+
+---
+
+### 2.6.5 Pattern Monitoring  
+
+Repeated reliance on emergency authority for similar situations requires:
+
+- Documentation of pattern  
+- Risk assessment  
+- Evaluation of systemic causes  
+- Formal policy or structural response  
+
+This prevents normalization of crisis-driven governance.
+
+---
+
+### 2.6.6 Documentation and Transparency  
+
+All emergency actions and subsequent reviews must be documented in accordance with Section 2.4.
+
+Records must include:
+
+- Nature of the emergency  
+- Authority invoked  
+- Actions taken  
+- Duration  
+- Review outcome  
+
+---
+
+### Structural Principle  
+
+Emergency Authority protects safety in moments of instability.  
+Formal governance protects legitimacy in the long term.  
+Temporary power must never become permanent.
